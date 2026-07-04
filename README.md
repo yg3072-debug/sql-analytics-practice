@@ -31,3 +31,23 @@ Completed practice on:
 
 File:
 - `01_joins_subqueries_basics.sql`
+
+- ### Day 2: Window Functions
+
+Completed practice on:
+
+- ROW_NUMBER()
+- RANK()
+- DENSE_RANK()
+- LAG()
+- LEAD()
+- SUM() OVER()
+- AVG() OVER()
+- Cumulative metrics
+- Moving averages
+- Previous event comparison
+- User journey time-gap analysis
+
+File:
+
+- `02_window_functions.sql`
