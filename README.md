@@ -51,3 +51,22 @@ Completed practice on:
 File:
 
 - `02_window_functions.sql`
+
+### Day 3: Product Metrics
+
+Completed practice on:
+
+- Daily Active Users (DAU)
+- Daily purchase users
+- Daily purchase conversion rate
+- Daily completed GMV
+- Average Order Value (AOV)
+- Average Revenue Per User (ARPU)
+- Traffic-source conversion analysis
+- Device-level order performance
+- Repeat purchase rate
+- High-value user identification
+
+File:
+
+- `03_product_metrics.sql`
